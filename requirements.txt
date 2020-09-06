@@ -1,0 +1,7 @@
+face_recognition
+numpy
+pandas
+xlrd
+opencv-python
+xlsxwriter
+openpyxl
