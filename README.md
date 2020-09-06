@@ -33,7 +33,7 @@ python3 main.py
 
 
 ### Instructions
-"student_db/people_db.xlsx " file contains student record and their images 
+'student_db/people_db.xlsx' file contains student record and their images 
 To add new student add the name,roll no. & image file name to the excel sheet
 
-After running the program attendance record is generated with current time stamp telling the details of the students recognised by the camera
+After running the program attendance record is generated with current timestamp (Ex. 'attendance_record Sun 06 Sep 2020 18:40:11 IST.xlsx' ) providing the details of the students recognised by the camera
