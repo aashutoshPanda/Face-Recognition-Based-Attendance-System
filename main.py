@@ -149,10 +149,9 @@ while True:
         break
 
 
-# Printing to terminal
-print(name_col)
-print(roll_no_col)
-print(time_col)
+# print(name_col)
+# print(roll_no_col)
+# print(time_col)
 
 # Printing to log file
 
