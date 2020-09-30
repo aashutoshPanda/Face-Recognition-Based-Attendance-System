@@ -11,4 +11,4 @@ for index, filename in enumerate(os.listdir(image_dir), start=1):
         data.append([new_name, new_name, index])
 
 df = pd.DataFrame(data, columns=['name', 'image', 'roll_no'])
-df.to_excel("student_db/people_db2.xlsx")
+df.to_excel("student_db/people_db.xlsx")
